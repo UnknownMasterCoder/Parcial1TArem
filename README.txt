@@ -1,6 +1,6 @@
-Proyecto Spark Web App.
+Parcial 1er Tercio AREM
 
-Calcula la media y la desviacion estandar de 2 conjuntos de datos dados por el usuario.
+Calcula el maximo, minimo, sumatoria y multiplicatoria.
 
 Implementa el framework Spark y se sube igualmente a Heroku.
 
